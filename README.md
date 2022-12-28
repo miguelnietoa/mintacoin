@@ -8,6 +8,14 @@
   <a href="https://coveralls.io/github/kommitters/mintacoin">
     <img src="https://coveralls.io/repos/github/kommitters/mintacoin/badge.svg" alt="Coverage Status">
   </a>
+
+  <!-- OpenSSF badges -->
+  <a href="https://bestpractices.coreinfrastructure.org/projects/6473">
+    <img src="https://bestpractices.coreinfrastructure.org/projects/6473/badge" alt="OpenSSF Best Practices">
+  </a>
+  <a href="https://api.securityscorecards.dev/projects/github.com/kommitters/mintacoin">
+    <img src="https://api.securityscorecards.dev/projects/github.com/kommitters/mintacoin/badge" alt="OpenSSF Scorecard">
+  </a>
 </div>
 <br>
 
