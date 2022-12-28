@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.5.3 (28.12.2022)
+* Add Renovate as dependency update tool.
+* Harden GitHub Actions.
+* Add OpenSSF BestPractices & Scorecard badges.
+
 ## 0.5.2 (21.12.2022)
 * Fix build badge.
 
