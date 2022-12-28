@@ -64,7 +64,7 @@ Mintacoin's documentation is available here: [docs.mintacoin.co](https://docs.mi
 
 To know the current status of the project, you can check Mintacoin's roadmap here: [**ROADMAP**][roadmap] 🗺️
 
-> The current release for the project is the version **v0.5.2**.
+> The current release for the project is the version **v0.5.3**.
 
 ## Development
 
