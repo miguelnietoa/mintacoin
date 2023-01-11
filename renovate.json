@@ -6,5 +6,6 @@
   "enabledManagers": [
     "mix",
     "github-actions"
-  ]
+  ],
+  "ignoreDeps": ["postgres"]
 }
